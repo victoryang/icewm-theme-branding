@@ -4,7 +4,6 @@
 # since modifications to this file will be discarded when you
 # (re)install icewm.
 #
-#prog Gterm utilities-terminal xterm
-prog Gterm xterm xterm
+prog xterm xterm xterm
 prog "Web browser" web-browser xdg-open about:blank
 
